@@ -8,3 +8,12 @@
   padding: 10px;
   border-radius: 7px;
 }
+
+.inline-block-container {
+  background-color: rgb(190, 108, 108);
+  padding: 25px;
+}
+.inline-block-container .post {
+  display: inline-block;
+  width: 30%;
+}
