@@ -7,10 +7,13 @@
   flex-direction: row;
   /* issidestymas pagrindine asimi */
   justify-content: flex-start;
-  justify-content: center;
   justify-content: space-between;
   justify-content: space-evenly;
+  justify-content: center;
   /* isdestymas statmena asimi */
+  align-items: flex-end;
+  align-items: center;
+  align-items: baseline;
   align-items: flex-start;
   /* flex-wrap: wrap; */
 }
